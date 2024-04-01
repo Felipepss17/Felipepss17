@@ -1,8 +1,11 @@
 - ✔️ Completed courses:
-- 
-- 📫 How to reach me felipep1701@gmail.com
-
-<!---
-Felipepss17/Felipepss17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **ALURA** - *Python* - Create your first application
+- **ALURA** - *Python* - Applying object orientation
+- **ALURA** - *Python* - Advance object orientation and consume API
+- **ALURA** - *Python (Django)* - Templates and best practices
+- **ALURA** - *Python (Django)* - Forms authentication and alerting
+- **ALURA** - *Python (Django)* - Data Persistence and Admin
+- **ALURA** - *Python (Django)* - CRUD and persistence in S3
+- **ALURA** - *Python (Git and GitHub)* - Sharing and collaborating on projects
+- --
+- 📫 How to reach me (Email -> felipep1701@gmail.com) or (WhatsApp -> +55 21 98871-1701)
