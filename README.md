@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Felipepss17
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning Python
+- ✔️ Completed courses:
+- 
 - 📫 How to reach me felipep1701@gmail.com
 
 <!---
