@@ -8,4 +8,5 @@
 - **ALURA** - *Python (Django)* - CRUD and persistence in S3
 - **ALURA** - *Python (Git and GitHub)* - Sharing and collaborating on projects
 - --
-- 📫 How to reach me (Email -> felipep1701@gmail.com) or (WhatsApp -> +55 21 98871-1701)
+- 📫 How to reach me:
+- WhatsApp -> +55 21 98871-1701
